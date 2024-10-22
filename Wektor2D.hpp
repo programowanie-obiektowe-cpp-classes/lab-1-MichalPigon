@@ -28,6 +28,7 @@ class Wektor2D
 
    private:
       double X, Y, vec_norm;
+      
 };
 double operator*(Wektor2D v1, Wektor2D v2)
 {
